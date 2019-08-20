@@ -5,7 +5,7 @@
 in this project im using  faster_rcnn_inception model with region proposal network (RPN)for generating region proposals.
 
 
-![Alt text](rcnn-objectDetection/final images/1.jpg?raw=true "Title")
+![Alt text](https://github.com/PalTAJ/rcnn-objectDetection/blob/master/final%20images/1.jpg?raw=true "Title")
 
 
 requirements and packages :
