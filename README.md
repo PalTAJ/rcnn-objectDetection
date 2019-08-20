@@ -56,9 +56,9 @@ if len(images) > 2:
     test_image2 = images[2]
     source_image2 = cv2.imread(test_image2)
 
-## Single Image Testing
-# test_image = 'greentest.jpg'
-# source_image = cv2.imread(test_image)
+#Single Image Testing
+#test_image = 'greentest.jpg'
+#source_image = cv2.imread(test_image)
 def click(test_image,source_image,n):
     featureExtractor.main(2,test_image) # extract feature for our test image
     prediction = knn_classifier.main('features.data', 'test.data')
