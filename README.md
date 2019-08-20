@@ -4,6 +4,12 @@
 
 in this project im using  faster_rcnn_inception model with region proposal network (RPN)for generating region proposals.
 
+the Task:
+1-detect three types of fruit: apples, oranges and bananas
+2-extract the fruit detected coordiants and send it to color_detection model and determine the color.
+Data:
+taken from Kaggle object detection datasets:
+https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection
 
 ![Alt text](https://github.com/PalTAJ/rcnn-objectDetection/blob/master/final%20images/1.jpg?raw=true "Title")
 ![Alt text](https://github.com/PalTAJ/rcnn-objectDetection/blob/master/final%20images/11.jpg?raw=true "Title")
