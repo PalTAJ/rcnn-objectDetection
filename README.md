@@ -58,6 +58,7 @@ if len(images) > 2:
 
 #Single Image Testing
 #test_image = 'greentest.jpg'
+
 #source_image = cv2.imread(test_image)
 def click(test_image,source_image,n):
     featureExtractor.main(2,test_image) # extract feature for our test image
